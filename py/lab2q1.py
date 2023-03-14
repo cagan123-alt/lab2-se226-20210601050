@@ -7,7 +7,7 @@ for e in words:
         print (e)
 
 
-print("Words starts with a and h")
+print("Words starts with h and a")
 for e in words:
-    if(e.startswith("a") or e.startswith("h")):
+    if(e.startswith("h") and e[1]=="a"):
         print(e)

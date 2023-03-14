@@ -13,12 +13,10 @@ int main() {
 
 
     }
-    cout<<"Words starts with a and h"<<endl;
+    cout<<"Words starts with h and a"<<endl;
 
     for(string b: words){
-        char d=b[0];
-
-        if(d=='a' || d=='h'){
+        if(b[1]=='a' && b[0]=='h'){
             cout<<b<<endl;
         }
 
