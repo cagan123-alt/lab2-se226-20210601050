@@ -1,4 +1,4 @@
-# Hi teacher if you don't want to copy paste code to your compuuter here is the repl.it part it may take 10-20 second because of website but code works
+# Hi teacher if you don't want to copy paste code to your compuuter here is the repl.it part it may take 10-20 second because of website
 
 
 
